@@ -1,0 +1,15 @@
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\bin\Release\ProgettoDatabaseSiintTest.exe.config
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\bin\Release\ProgettoDatabaseSiintTest.exe
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\bin\Release\ProgettoDatabaseSiintTest.pdb
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\bin\Release\Libreria.AccessoDati.dll
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\bin\Release\Libreria.AccessoDati.pdb
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\obj\Release\ProgettoDatabaseSiintTest.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\obj\Release\ProgettoDatabaseSiintTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\obj\Release\ProgettoDatabaseSiintTest.aggiungiStampa.resources
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\obj\Release\ProgettoDatabaseSiintTest.homepage.resources
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\obj\Release\ProgettoDatabaseSiintTest.Properties.Resources.resources
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\obj\Release\ProgettoDatabaseSiintTest.csproj.GenerateResource.cache
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\obj\Release\ProgettoDatabaseSiintTest.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\obj\Release\ProgettoDatabaseSiintTest.csproj.CopyComplete
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\obj\Release\ProgettoDatabaseSiintTest.exe
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\obj\Release\ProgettoDatabaseSiintTest.pdb

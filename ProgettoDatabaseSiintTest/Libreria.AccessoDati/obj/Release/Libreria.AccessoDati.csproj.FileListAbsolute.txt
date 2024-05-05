@@ -1,0 +1,6 @@
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\Libreria.AccessoDati\bin\Release\Libreria.AccessoDati.dll
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\Libreria.AccessoDati\bin\Release\Libreria.AccessoDati.pdb
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\Libreria.AccessoDati\obj\Release\Libreria.AccessoDati.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\Libreria.AccessoDati\obj\Release\Libreria.AccessoDati.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\Libreria.AccessoDati\obj\Release\Libreria.AccessoDati.dll
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\Libreria.AccessoDati\obj\Release\Libreria.AccessoDati.pdb

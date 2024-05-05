@@ -1,0 +1,15 @@
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\bin\Debug\ProgettoDatabaseSiintTest.exe.config
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\bin\Debug\ProgettoDatabaseSiintTest.exe
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\bin\Debug\ProgettoDatabaseSiintTest.pdb
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\obj\Debug\ProgettoDatabaseSiintTest.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\obj\Debug\ProgettoDatabaseSiintTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\obj\Debug\ProgettoDatabaseSiintTest.Properties.Resources.resources
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\obj\Debug\ProgettoDatabaseSiintTest.csproj.GenerateResource.cache
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\obj\Debug\ProgettoDatabaseSiintTest.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\obj\Debug\ProgettoDatabaseSiintTest.exe
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\obj\Debug\ProgettoDatabaseSiintTest.pdb
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\obj\Debug\ProgettoDatabaseSiintTest.homepage.resources
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\obj\Debug\ProgettoDatabaseSiintTest.aggiungiStampa.resources
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\bin\Debug\Libreria.AccessoDati.dll
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\bin\Debug\Libreria.AccessoDati.pdb
+C:\Users\miche\source\repos\ProgettoDatabaseSiintTest\ProgettoDatabaseSiintTest\obj\Debug\ProgettoDatabaseSiintTest.csproj.CopyComplete
